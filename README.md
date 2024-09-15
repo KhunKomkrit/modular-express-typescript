@@ -1,8 +1,8 @@
-# modular-auth-express-typescript
+# modular-express-typescript
 
 ## Installation
 ```bash
-cd modular-auth-express-typescript
+cd modular-express-typescript
 -> npm install
 ```
 ## Project Modular Structure 
@@ -40,7 +40,7 @@ To generate a new module, follow these steps:
 
 1. Navigate to the project directory:
     ```bash
-    cd modular-auth-express-typescript
+    cd modular-express-typescript
     ```
 
 2. Run the generate command with the desired module name:
