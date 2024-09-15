@@ -33,6 +33,7 @@ src/
         |-- jwt.ts
 ```
 
+
 ## Generate CLI Modules
 
 To generate a new module, follow these steps:
