@@ -5,7 +5,7 @@
 cd workshop001-auth-express-typescript
 -> npm install
 ```
-## Project Structure Modular
+## Project Modular Structure 
 
 ```bash
 src/
@@ -29,6 +29,21 @@ src/
 |-- utils/
     |-- helpers.ts
 |-- providers/
-    |-- jwt/
+    |-- jwt
         |-- jwt.ts
 ```
+
+## Generate CLI Modules
+
+To generate a new module, follow these steps:
+
+1. Navigate to the project directory:
+    ```bash
+    cd workshop001-auth-express-typescript
+    ```
+
+2. Run the generate command with the desired module name:
+    ```bash
+    npm run generate users
+    ```
+    *(Replace `users` with the name of the module you want to create.)*
