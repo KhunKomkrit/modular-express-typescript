@@ -1,8 +1,8 @@
-# workshop001-auth-express-typescript
+# modular-auth-express-typescript
 
 ## Installation
 ```bash
-cd workshop001-auth-express-typescript
+cd modular-auth-express-typescript
 -> npm install
 ```
 ## Project Modular Structure 
@@ -40,7 +40,7 @@ To generate a new module, follow these steps:
 
 1. Navigate to the project directory:
     ```bash
-    cd workshop001-auth-express-typescript
+    cd modular-auth-express-typescript
     ```
 
 2. Run the generate command with the desired module name:
